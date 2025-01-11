@@ -4,7 +4,7 @@ This repository contains my **Developer Landing Page**, created as my third HTML
 
 ## Project Overview
 
-The Developer Landing Page serves as a personal portfolio and introduction page. It highlights my skills, projects, and contact information in a visually appealing and user-friendly manner.
+The Developer Landing Page serves as a personal portfolio and introduction page. It highlights someone's skills, projects, and contact information in a visually appealing and user-friendly manner.
 
 ### Key Features
 - **Responsive Design:**
