@@ -20,6 +20,9 @@ The Developer Landing Page serves as a personal portfolio and introduction page.
 ## Technologies Used
 - **HTML5** for structure
 - **CSS3** for styling and layout
+
+## Link
+https://akm2006.github.io/Developer-Landing-Page/
   - Includes advanced features like **flexbox**, **CSS grid**, and **media queries**
 
 ## Learning Goals
