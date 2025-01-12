@@ -13,7 +13,7 @@ The Developer Landing Page serves as a personal portfolio and introduction page.
 - **Clean and Modern UI:**
   - Simple, intuitive design with clear navigation.
 - **Structured Content:**
-  - Sections for About Me, Skills, Projects, and Contact Information.
+  - Sections for About Me, Skills and Contact Information.
 - **Interactive Hover Effects:**
   - Subtle animations and transitions on interactive elements for a polished look.
 
@@ -23,7 +23,6 @@ The Developer Landing Page serves as a personal portfolio and introduction page.
 
 ## Link
 https://akm2006.github.io/Developer-Landing-Page/
-  - Includes advanced features like **flexbox**, **CSS grid**, and **media queries**
 
 ## Learning Goals
 - Enhance understanding of **responsive design** techniques
